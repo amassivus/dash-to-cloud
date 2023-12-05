@@ -6,7 +6,7 @@ dash to cloud a panel alternative for cloud computing from local to cloud or rem
 
 dash to cloud a panel alternative for cloud computing from local to cloud or remote machines
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
